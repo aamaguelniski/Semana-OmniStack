@@ -1,0 +1,5 @@
+Metodos HTTP:
+GET: busca um informação do back-end
+POST: cria uma informação no back-end
+PUT: altera uma informação no back-end
+DELETE: exclui uma informação no back-end
